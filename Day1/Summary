@@ -9,7 +9,3 @@ Motion Properties
 1. Initial: x & y (starting position for mini like buttons)
 2. Animate: x & y (ending position for mini like buttons), scale
 3. Transition: duration, and delay
-
-
-
-
